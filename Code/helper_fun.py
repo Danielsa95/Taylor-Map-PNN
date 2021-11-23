@@ -1,5 +1,5 @@
 import numpy as np
-import weights as mn
+import Code.weights as mn
 from math import ceil
 
 """ In this file there are all the helper function used to evaluate the weights matrices and 
