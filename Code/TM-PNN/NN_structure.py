@@ -3,7 +3,7 @@ import tensorflow as tf
 from tensorflow.keras.layers import Layer
 from tensorflow.keras.layers import Activation,Dense,LSTM
 from tensorflow.keras.models import Sequential
-import weights as mn
+import Code.weights as mn
 
 """ In this file there is the code of the layers and the implementation of the Neural Networks used."""
 
